@@ -1,0 +1,654 @@
+{
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\config.py": {
+    "mtime": 1783030745.4576008,
+    "hash": "7203c9ff7ee7cbe9210acf1177548d5e"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\helpers.py": {
+    "mtime": 1783030745.53562,
+    "hash": "1a0496b6420f5660269ad8b800123761"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\onboard.py": {
+    "mtime": 1783030745.5549617,
+    "hash": "f59d8a0c2297783d838516eb51ed61e0"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\run_utils.py": {
+    "mtime": 1783030745.6901405,
+    "hash": "c890e9cddecead8bffd110fa83c8999f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\server.py": {
+    "mtime": 1783030745.6931622,
+    "hash": "3a8d00b7866f60425005fd391ca709a1"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\swarm.py": {
+    "mtime": 1783030745.935732,
+    "hash": "3be7a98c1840fdbe0f7ed1615c33b678"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\bin\\openswarm": {
+    "mtime": 1783030745.4560928,
+    "hash": "6ec54f3f6e07d9ccbe182dba050f4daf"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\data_analyst_agent\\data_analyst_agent.py": {
+    "mtime": 1783030745.464885,
+    "hash": "795f05cf9bf7d913249b21548237c007"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\data_analyst_agent\\__init__.py": {
+    "mtime": 1783030745.462641,
+    "hash": "b7dccdea09632f3cc717dcc8c3fa348b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\data_analyst_agent\\tools\\__init__.py": {
+    "mtime": 1783030745.4724655,
+    "hash": "4b50bc993500692b911e055f29799817"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\deep_research\\deep_research.py": {
+    "mtime": 1783030745.4757955,
+    "hash": "7ee2f342b0a6f75761d87d6014ef5b2b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\deep_research\\__init__.py": {
+    "mtime": 1783030745.4737957,
+    "hash": "189308ff82bc6a1d4246dfdc80458431"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\deep_research\\tools\\__init__.py": {
+    "mtime": 1783030745.4783182,
+    "hash": "927c4311fc039bb585a905145bd2162c"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\docs_agent.py": {
+    "mtime": 1783030745.4872835,
+    "hash": "e979a70afd3a73a26769d1c903936bb5"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\__init__.py": {
+    "mtime": 1783030745.4847622,
+    "hash": "887429a06d38394bf673be6135c53e3d"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\ConvertDocument.py": {
+    "mtime": 1783030745.4932973,
+    "hash": "aba290e113888dd8dfbc9b3f3fec0e55"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\CreateDocument.py": {
+    "mtime": 1783030745.497118,
+    "hash": "dfcf1e45ef8fa33d4f9b73b62dc4bbd6"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\ListDocuments.py": {
+    "mtime": 1783030745.499133,
+    "hash": "5d8e311be6aa0b8eaf689f14b1d35e70"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\ModifyDocument.py": {
+    "mtime": 1783030745.501148,
+    "hash": "47d8c4009b80c6b9cc07e1295653f153"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\RestoreDocument.py": {
+    "mtime": 1783030745.5021446,
+    "hash": "498bee4bbb1210e60939a687f2be6622"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\ViewDocument.py": {
+    "mtime": 1783030745.5042577,
+    "hash": "b6d850f9a753e54dd471c7218c89fe73"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\__init__.py": {
+    "mtime": 1783030745.5055318,
+    "hash": "927c4311fc039bb585a905145bd2162c"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\doc_file_utils.py": {
+    "mtime": 1783030745.5080717,
+    "hash": "151bed253fd0719753bf52da3035c17d"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_blocks.py": {
+    "mtime": 1783030745.510063,
+    "hash": "deee8af4ac4abd9da7afeaef0e3aafd4"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_constants.py": {
+    "mtime": 1783030745.5120673,
+    "hash": "7dad58e5c1f6778aeb4beca4e669482c"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_core.py": {
+    "mtime": 1783030745.5140657,
+    "hash": "fc2367f8b241bf904a422233a805f7a9"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_css.py": {
+    "mtime": 1783030745.5168872,
+    "hash": "4ebfbdfc9b7fc78736fea171dda0a4bd"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_images.py": {
+    "mtime": 1783030745.5188992,
+    "hash": "bd76f3e754e59631e6467e4434981315"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_page.py": {
+    "mtime": 1783030745.519907,
+    "hash": "0daf076071bf3819d74701dd5be50382"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_paragraphs.py": {
+    "mtime": 1783030745.5209072,
+    "hash": "65d3ed4784349db87cadcf346545467f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_playwright.py": {
+    "mtime": 1783030745.5229127,
+    "hash": "12be9911c8ca8bd7533394405421586b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_selectors.py": {
+    "mtime": 1783030745.5242803,
+    "hash": "877b3a5b3d0598d52e38d0b1c887e7a1"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_shared.py": {
+    "mtime": 1783030745.5262814,
+    "hash": "8fa6372712914d0c8811dec9456d01b1"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_docx_tables.py": {
+    "mtime": 1783030745.5323188,
+    "hash": "9176797a255c265b3084d683af48bb25"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\html_validation.py": {
+    "mtime": 1783030745.5336213,
+    "hash": "8469356469f31ef721720161ffb9a8da"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\tools\\utils\\__init__.py": {
+    "mtime": 1783030745.507053,
+    "hash": "81051bcc2cf1bedf378224b0a93e2877"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\image_generation_agent.py": {
+    "mtime": 1783030745.5391438,
+    "hash": "7b9c61114e1a5f1ff1f22be21a165ef3"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\__init__.py": {
+    "mtime": 1783030745.5381436,
+    "hash": "25281ab7cf1c0943cdc494c4fe709186"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\tools\\CombineImages.py": {
+    "mtime": 1783030745.5421531,
+    "hash": "21052dcc61a05a2c8b7421b636368dd8"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\tools\\EditImages.py": {
+    "mtime": 1783030745.5431533,
+    "hash": "656dbf70c0cf8507903b6ba6f9f24f5a"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\tools\\GenerateImages.py": {
+    "mtime": 1783030745.546989,
+    "hash": "c52454572dbefa79aa8b89fab80b4fab"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\tools\\RemoveBackground.py": {
+    "mtime": 1783030745.548565,
+    "hash": "c2e075fa29aa094407e4cfa8257ebb03"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\tools\\__init__.py": {
+    "mtime": 1783030745.549581,
+    "hash": "d161e2da937567715d52be385c370fa8"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\tools\\utils\\image_io.py": {
+    "mtime": 1783030745.5535774,
+    "hash": "063cbe85101eec45954dd534b98052b3"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\tools\\utils\\__init__.py": {
+    "mtime": 1783030745.551579,
+    "hash": "bd81d464a2d2f0b58d9010e470ad558f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\orchestrator\\orchestrator.py": {
+    "mtime": 1783030745.556959,
+    "hash": "16e4fe5713dcdd927a16b44423493664"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\orchestrator\\__init__.py": {
+    "mtime": 1783030745.5559616,
+    "hash": "7b3af7fa3e352036bc3d606bfa990b98"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\patches\\patch_agency_swarm_dual_comms.py": {
+    "mtime": 1783030745.6751013,
+    "hash": "686296388981d7160843b79a70a23540"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\patches\\patch_file_attachment_refs.py": {
+    "mtime": 1783030745.677128,
+    "hash": "2414ee0990b9593ea2761cfe4fa84e53"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\patches\\patch_ipython_interpreter_composio.py": {
+    "mtime": 1783030745.6816678,
+    "hash": "a20d2c9e8fe502961f1a5ffb56690467"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\patches\\patch_utf8_file_reads.py": {
+    "mtime": 1783030745.6845458,
+    "hash": "cc4a311daee20e01c1c5a11c048a41c3"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\patches\\__init__.py": {
+    "mtime": 1783030745.5668426,
+    "hash": "4ceba35e95e30e4c6d7458d0b5cae971"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\CopyFile.py": {
+    "mtime": 1783030745.6991875,
+    "hash": "6decfe501f63ea224e50ae14c4f616f5"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\ExecuteTool.py": {
+    "mtime": 1783030745.702182,
+    "hash": "65a44502ec793a99ff4e99573a993198"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\FindTools.py": {
+    "mtime": 1783030745.7035384,
+    "hash": "47201d477be29cd3b77a3baf8f9fec19"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\ManageConnections.py": {
+    "mtime": 1783030745.7045503,
+    "hash": "ec9a2d035d3a7caeb461f41a44f5eb00"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\model_availability.py": {
+    "mtime": 1783030745.7101169,
+    "hash": "2d6d416136d988ee8360689b70580753"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\openai_client_utils.py": {
+    "mtime": 1783030745.7131383,
+    "hash": "d49d54339c45a90943403063eb51b31d"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\SearchTools.py": {
+    "mtime": 1783030745.7055645,
+    "hash": "b4d3d77036d2c9a1b879c0bdf8e1de52"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_tools\\__init__.py": {
+    "mtime": 1783030745.708089,
+    "hash": "29d4aff20ca35adbf2858a96074fa9e2"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\slides_agent.py": {
+    "mtime": 1783030745.8720727,
+    "hash": "69db401ec68aef06ecc43157a701a5a2"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\__init__.py": {
+    "mtime": 1783030745.7200627,
+    "hash": "456ab89b80b2a42699819dd3f9c980f6"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\pack.py": {
+    "mtime": 1783030745.8360434,
+    "hash": "b3314b5eaa0a6628cbd29a45d57522e1"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\unpack.py": {
+    "mtime": 1783030745.83858,
+    "hash": "b90516fb39cde74c50ccf0d3433b6056"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\validate.py": {
+    "mtime": 1783030745.8404896,
+    "hash": "f2bd2cad3117ec501a8b62eab8969a1e"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\validation\\base.py": {
+    "mtime": 1783030745.8472438,
+    "hash": "51c73948adb2b2ed4b6da2a6e3f7e9c9"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\validation\\docx.py": {
+    "mtime": 1783030745.84977,
+    "hash": "ff513eb21ba8693b824daa445d6f7969"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\validation\\pptx.py": {
+    "mtime": 1783030745.852308,
+    "hash": "5cbac7f743bc7456b66a3a1db234acea"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\validation\\redlining.py": {
+    "mtime": 1783030745.8536348,
+    "hash": "c8a1fa0ed200d91094951b14f5cae1f7"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml\\scripts\\validation\\__init__.py": {
+    "mtime": 1783030745.8429985,
+    "hash": "6ae13697412ab8c9b99b3268b717970b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\scripts\\html2pptx.js": {
+    "mtime": 1783030745.8571467,
+    "hash": "8852568009aaef6fedd1ca2d4ff460db"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\scripts\\inventory.py": {
+    "mtime": 1783030745.8591588,
+    "hash": "3c7f9345dd78cd26025ca7208257b1d0"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\scripts\\rearrange.py": {
+    "mtime": 1783030745.86448,
+    "hash": "e078d020baaa2ebb9a2e94e964c0dec8"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\scripts\\replace.py": {
+    "mtime": 1783030745.8669991,
+    "hash": "e32d3db3a88db2cc96b5de1e58555eb6"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\scripts\\thumbnail.py": {
+    "mtime": 1783030745.8700693,
+    "hash": "a561c166515910b9f23b3a136e9513f0"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\ApplyPptxTextReplacements.py": {
+    "mtime": 1783030745.8743842,
+    "hash": "ce55933a18a1ac26f6bfdb07db07fbdb"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\BuildPptxFromHtmlSlides.py": {
+    "mtime": 1783030745.8753836,
+    "hash": "288066db0bbf0bf23e7c7959b4e416ce"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\CheckSlide.py": {
+    "mtime": 1783030745.8809247,
+    "hash": "27a03857a38530772ebcc46e6755bf6f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\CheckSlideCanvasOverflow.py": {
+    "mtime": 1783030745.8834417,
+    "hash": "915b90f663d1059a067d3116640bb5fe"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\CreateImageMontage.py": {
+    "mtime": 1783030745.8848276,
+    "hash": "7396ebeb1ac600d3c42500a55cf5d529"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\CreatePptxThumbnailGrid.py": {
+    "mtime": 1783030745.887354,
+    "hash": "f8aea160e4bfb895f43c7a2d4e451f7b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\deck_utils.py": {
+    "mtime": 1783030745.9193382,
+    "hash": "c4c718dbd6b6dfce882d133e0dd4ec67"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\DeleteSlide.py": {
+    "mtime": 1783030745.8893807,
+    "hash": "ad9fc840e80da657369238d06ce74555"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\DownloadImage.py": {
+    "mtime": 1783030745.8913794,
+    "hash": "24de9ded7d60fc234bd60ae647f79716"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\EnsureRasterImage.py": {
+    "mtime": 1783030745.8923786,
+    "hash": "eadc214ebcf4017add6d78cecb2789ce"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\ExtractPptxTextInventory.py": {
+    "mtime": 1783030745.8933809,
+    "hash": "9790156b7aceddfd08dd3f83f7496460"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\GenerateImage.py": {
+    "mtime": 1783030745.8968825,
+    "hash": "0d827a6e5afa0ad9b78d114cb715e98d"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\html2pptx_runner.js": {
+    "mtime": 1783030745.9233353,
+    "hash": "0e89de49b46de3cebbf16fb0022ab2eb"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\ImageSearch.py": {
+    "mtime": 1783030745.899923,
+    "hash": "3698506e956c8f616da44e47c40e9bb8"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\InsertNewSlides.py": {
+    "mtime": 1783030745.90192,
+    "hash": "cfe1f1486b2aed27c34a75174e74c4bd"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\ManageTheme.py": {
+    "mtime": 1783030745.90343,
+    "hash": "f86627e30c55141e67d73d1a21f738e9"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\ModifySlide.py": {
+    "mtime": 1783030745.9062822,
+    "hash": "2514bf6af4a6afd437a77dfc0241d2f1"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\ReadSlide.py": {
+    "mtime": 1783030745.9084845,
+    "hash": "89f02d297817b2236b4787804de3a572"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\RearrangePptxSlidesFromTemplate.py": {
+    "mtime": 1783030745.909496,
+    "hash": "8745f3a4e6a3e44ef4d469a6442437f4"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\render_slides.py": {
+    "mtime": 1783030745.9272168,
+    "hash": "31d524af049f3ed82b816f91634c13a1"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\RestoreSnapshot.py": {
+    "mtime": 1783030745.9138002,
+    "hash": "2fe2c26ef7a3667fb36e217ed721ad64"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\SlideScreenshot.py": {
+    "mtime": 1783030745.9158022,
+    "hash": "510b8ebe7d54b50a17ade665ad4159cc"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\slide_file_utils.py": {
+    "mtime": 1783030745.9307659,
+    "hash": "88d8c547cd7c2a57198e04606349493b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\slide_html_utils.py": {
+    "mtime": 1783030745.933279,
+    "hash": "0ff93da4a0d1f25945f8c729e2d20a13"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\template_registry.py": {
+    "mtime": 1783030745.9347315,
+    "hash": "edc0201175104440b4354333e9ad492f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\__init__.py": {
+    "mtime": 1783030745.9183252,
+    "hash": "eecf894cb5ea7d468adee1039aec7c18"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\video_generation_agent.py": {
+    "mtime": 1783030745.9748864,
+    "hash": "af3e28352c04ac1dc5ac2418a5545144"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\__init__.py": {
+    "mtime": 1783030745.9392543,
+    "hash": "7936982deae92957e9b1d4ff50b9840f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\AddSubtitles.py": {
+    "mtime": 1783030745.9432666,
+    "hash": "c8857817c03dc58af06f9b4f8a45d24d"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\CombineImages.py": {
+    "mtime": 1783030745.9495592,
+    "hash": "7f1d142ebea60dfdee76f504f350d811"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\CombineVideos.py": {
+    "mtime": 1783030745.9515572,
+    "hash": "633b3fd41b18209513ed07378f8163b1"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\EditAudio.py": {
+    "mtime": 1783030745.952557,
+    "hash": "34c55b3b9f3aa4f2a46dec4430071c1c"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\EditImage.py": {
+    "mtime": 1783030745.9538965,
+    "hash": "ffa840f912c29325e2a95aae68e20fba"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\EditVideoContent.py": {
+    "mtime": 1783030745.9568975,
+    "hash": "0fcd7225be8990c8ca1f53d7c6e89d4c"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\GenerateImage.py": {
+    "mtime": 1783030745.958431,
+    "hash": "af70641b52ff2e9a25c088a9779567c8"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\GenerateVideo.py": {
+    "mtime": 1783030745.9604433,
+    "hash": "a93b23ff9206c885aa6be05de98f506f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\TrimVideo.py": {
+    "mtime": 1783030745.964444,
+    "hash": "ddfcd6624a8991d45f5c82dbf1574d63"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\__init__.py": {
+    "mtime": 1783030745.967582,
+    "hash": "2b2d179da2d178fd00e080040248bbed"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\utils\\image_utils.py": {
+    "mtime": 1783030745.971607,
+    "hash": "b7e0827a4173ed823acf6092307f8cd7"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\utils\\video_utils.py": {
+    "mtime": 1783030745.9736056,
+    "hash": "d6750801b92be00212878e7960f76167"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\tools\\utils\\__init__.py": {
+    "mtime": 1783030745.9696076,
+    "hash": "760a3b30a7aec17b6be3d1843fcb1fca"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\virtual_assistant.py": {
+    "mtime": 1783030746.0637822,
+    "hash": "24022f7d73437d0b4981be7b1c3a8669"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\__init__.py": {
+    "mtime": 1783030745.9794264,
+    "hash": "149f8093e9f43edf31ee3e11266d2212"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\AddLabelToEmail.py": {
+    "mtime": 1783030745.9858022,
+    "hash": "4007c99587e1262ab9bd0f738f3f7ed4"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\CheckEventsForDate.py": {
+    "mtime": 1783030745.987312,
+    "hash": "e11284957148b627f329f4168e5285b4"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\CheckUnreadSlackMessages.py": {
+    "mtime": 1783030745.989337,
+    "hash": "86791a92e7e56f74480e81d174011a6f"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\CreateCalendarEvent.py": {
+    "mtime": 1783030745.9903364,
+    "hash": "78bca8efd9672be90b86af3c24da9649"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\DeleteCalendarEvent.py": {
+    "mtime": 1783030745.9923384,
+    "hash": "dadddc1e3b148404604230fa33535865"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\DeleteDraft.py": {
+    "mtime": 1783030746.00122,
+    "hash": "e7eb265791551d9b9a8ee7e79da08530"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\DraftEmail.py": {
+    "mtime": 1783030746.004221,
+    "hash": "171a008d1cfaed58f4a2ab3c02a3476a"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\EditFile.py": {
+    "mtime": 1783030746.0052338,
+    "hash": "cbff7cb5fae21ef4c5e5fb1df4cbf82c"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\FindEmails.py": {
+    "mtime": 1783030746.0069988,
+    "hash": "87e85f92863cc23a7e578234c6b8b135"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\GetCurrentTime.py": {
+    "mtime": 1783030746.0095189,
+    "hash": "377ab204b13fa24966f8f8ab5ad8c703"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\GetSlackUserInfo.py": {
+    "mtime": 1783030746.0170476,
+    "hash": "cf8b80d7cc979a55fd2c67f957f635ee"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ListDirectory.py": {
+    "mtime": 1783030746.02092,
+    "hash": "f6f1ae036d7c214bb651af7bb097b3ca"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ListSkills.py": {
+    "mtime": 1783030746.023355,
+    "hash": "7042237e05885191dc413ab1b1bfe368"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ManageLabels.py": {
+    "mtime": 1783030746.0253549,
+    "hash": "22323b76ffdde6eef5ed5dce416a0d34"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ProductSearch.py": {
+    "mtime": 1783030746.0308905,
+    "hash": "6ee14a708b5b33095192670fd32d8143"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ReadEmail.py": {
+    "mtime": 1783030746.033413,
+    "hash": "b53e15d5699c67c45dca29ba685898a3"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ReadFile.py": {
+    "mtime": 1783030746.0354273,
+    "hash": "70f082f9c3ca16126033702ea67182e6"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ReadSlackMessages.py": {
+    "mtime": 1783030746.0394852,
+    "hash": "aebe139bde8876d1d34462fd74a93b41"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\RemoveLabelFromEmail.py": {
+    "mtime": 1783030746.0424986,
+    "hash": "a473d025c2da68e72c5900a5ec29ce25"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\RescheduleCalendarEvent.py": {
+    "mtime": 1783030746.0493734,
+    "hash": "d161e1b6dbbabf5e9f7af92d0747032a"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\ScholarSearch.py": {
+    "mtime": 1783030746.051373,
+    "hash": "109d71c92775bbc9f284df6b611022d7"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\SendDraft.py": {
+    "mtime": 1783030746.0538177,
+    "hash": "8279529a03da9c3605c00be27199a483"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\SendSlackMessage.py": {
+    "mtime": 1783030746.0558176,
+    "hash": "4682bdb7b792072f3dbdfd5c3b0da690"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\WriteFile.py": {
+    "mtime": 1783030746.057331,
+    "hash": "b62594ddde1df68519c57a08b667bb2b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\tools\\__init__.py": {
+    "mtime": 1783030746.0593467,
+    "hash": "927c4311fc039bb585a905145bd2162c"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\AGENTS.md": {
+    "mtime": 1783030745.4318893,
+    "hash": "02e4f2e9d0ac9524abf4abc4ed484a4e"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\CLAUDE.md": {
+    "mtime": 1783030745.4347262,
+    "hash": "a573574d35018747bcd0933d4382d8dc"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docker-compose.yml": {
+    "mtime": 1783030745.4813373,
+    "hash": "414a4562dbbdbf38c8d8f8fbc286ac78"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\README.md": {
+    "mtime": 1783030745.4402633,
+    "hash": "3d847ee4d65bac73e50d1097f4ac2ad2"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\requirements-dev.txt": {
+    "mtime": 1783030745.6871023,
+    "hash": "388e8bd6e0418dc9025266f280685172"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\requirements.txt": {
+    "mtime": 1783030745.6881478,
+    "hash": "ab5cd2d63d18a77706b2812663dbf8c4"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\shared_instructions.md": {
+    "mtime": 1783030745.6961544,
+    "hash": "306963af76737ca010b08121cab02e66"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\data_analyst_agent\\instructions.md": {
+    "mtime": 1783030745.4673965,
+    "hash": "5c4ca4a4a62114edb73292d3c8578405"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\deep_research\\instructions.md": {
+    "mtime": 1783030745.4757955,
+    "hash": "93d921c4b256a02a094dd2da383acef4"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\docs_agent\\instructions.md": {
+    "mtime": 1783030745.4893138,
+    "hash": "e8efa6354f9a7b149ec948c0c7d81d18"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\image_generation_agent\\instructions.md": {
+    "mtime": 1783030745.540155,
+    "hash": "d20bbaf89c4bc075183ba4a49967e4e3"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\orchestrator\\instructions.md": {
+    "mtime": 1783030745.556959,
+    "hash": "3eddd13f157cb40440d4b9af45f1a90a"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\instructions.md": {
+    "mtime": 1783030745.7220628,
+    "hash": "acc731c38598a1975d3fee7f55c5602a"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\html2pptx.md": {
+    "mtime": 1783030745.7299378,
+    "hash": "c61c4b31af707ee3e7e92f3a217abf13"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\ooxml.md": {
+    "mtime": 1783030745.7319355,
+    "hash": "b3d54a8060e470274b1d453395789fac"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\pptx\\SKILL.md": {
+    "mtime": 1783030745.725364,
+    "hash": "01047882e7b9aee06211b168ad58dc1a"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\slides_agent\\tools\\html_writer_instructions.md": {
+    "mtime": 1783030745.9247077,
+    "hash": "84f3a84f71b47ba39c9ae12238bdbc6b"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\video_generation_agent\\instructions.md": {
+    "mtime": 1783030745.9412663,
+    "hash": "040c8dab1fef3a1e06aaf1e6af90b241"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\virtual_assistant\\instructions.md": {
+    "mtime": 1783030745.9824288,
+    "hash": "6b4936fe6497843dcdf8731ba81d75fd"
+  },
+  "C:\\Users\\givin\\github-repos\\OpenSwarm\\assets\\new-framework.jpg": {
+    "mtime": 1783030745.4538665,
+    "hash": "b5c058440b8b2b84fa69cc1709192d88"
+  }
+}
